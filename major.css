@@ -1,5 +1,5 @@
 body {
-  background-image: url(brunomajor.jpg);
+  background-image: url(BrunoMajor_edited.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -10,42 +10,40 @@ body {
   padding: 20px;
   margin: 20px auto; */
   font-family: Arial, Helvetica, sans-serif;
-  
-  
 }
-p{
-    font-size: 20px;
-    padding: 10px 20px ;
+p {
+  font-size: 20px;
+  padding: 10px 20px;
 }
-h2{
-    font-size: 40px;
-    font-weight: bold;
+h2 {
+  font-size: 40px;
+  font-weight: bold;
 }
-li{
-    font-size: 20px;
+li {
+  font-size: 20px;
 }
-.container{
-    display:flex;
-    align-items: right;
-    border-bottom: 5px solid white;
-    justify-content: space-around;
+.container {
+  display: flex;
+  align-items: right;
+  border-bottom: 5px solid white;
+  justify-content: space-around;
 }
 
-.songs{
-    padding:20px;
+.songs {
+  padding: 20px;
 }
 
-.albums{
-    padding:20px;
+.albums {
+  padding: 20px;
 }
 
-.title{
-    font-size: 82px;
-    text-align: center;
-    border-bottom: 5px solid whitesmoke;
-    font-weight: bolder
+.title {
+  font-size: 82px;
+  text-align: center;
+  border-bottom: 5px solid whitesmoke;
+  font-weight: bolder;
 }
-.biography{
-    border-bottom: 5px solid whitesmoke;
-    padding: 20px;
+.biography {
+  border-bottom: 5px solid whitesmoke;
+  padding: 20px;
 }
